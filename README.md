@@ -20,11 +20,12 @@
   <p>
     <details>
       <summary>Model Summary</summary>
-      <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/formation-tensorflow-1024x453.jpg" alt="TensorFlow Image" class="dropdown-image">
+      <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Model%20Summary.jpg" alt="TensorFlow Image" class="dropdown-image">
     </details>
     <details>
       <summary>Accuraccy & Loss</summary>
-      <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/formation-tensorflow-1024x453.jpg" alt="TensorFlow Image" class="dropdown-image">
+      <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Accuracy.jpg" alt="TensorFlow Image" class="dropdown-image">
+       <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Loss.jpg" alt="TensorFlow Image" class="dropdown-image">
     </details>
     
   </p>
