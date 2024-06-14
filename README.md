@@ -45,10 +45,10 @@
     <h4>Stage 2: Image Preprocessing and Data Augmentation</h4>
       <p>
         We perform various types of preprocessing on the datasets to try each type of dataset to avoid overfitting or underfitting and to improve model curation. Some types of datasets are:
-1. The original dataset is without the addition of images from Google and without augmentation. 
-2. Datasets that have added several images from Google and without augmentation.
-3. Original dataset that is without the addition of images from Google and has been augmented. 
-4. Dataset that has been added several images from Google and has been augmented.
+        <br>1. The original dataset is without the addition of images from Google and without augmentation. 
+        <br>2. Datasets that have added several images from Google and without augmentation.
+        <br>3. Original dataset that is without the addition of images from Google and has been augmented. 
+        <br>4. Dataset that has been added several images from Google and has been augmented.
       </p>
     <h4>Stage 3: Build The Model</h4>
       <p>
