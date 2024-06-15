@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Machine Learning</h1>
-  <img src="https://raw.githubusercontent.com/snapmoo/snapmoo/main/assets/Machine%20Learning/TensorFlow.png" alt="TensorFlow" width="55%">
+  <img src="https://raw.githubusercontent.com/snapmoo/snapmoo/main/assets/Machine%20Learning/TensorFlow.png" alt="TensorFlow" width="40%">
 </div>
 <br>
 <div>
