@@ -33,9 +33,12 @@
     </details>
     <h4>Predict</h4>
   </p>
+  <div>
+
   | ![Gambar 1](https://github.com/snapmoo/snapmoo/blob/main/assets/Machine%20Learning/sapi%20pmk.png) | ![Gambar 2](https://github.com/snapmoo/snapmoo/blob/main/assets/Machine%20Learning/sapi%20sehat.png) |
   |----------------------------------------------|----------------------------------------------|
-  |          FMD cattle prediction               |         Prediction of healthy cattle         |
+  |<p align="center">FMD cattle prediction   </p>               |         <p align="center">Prediction of healthy cattle</p>        |
+  </div>
 </div>
 <div>
   <h2>Tool</h2>
