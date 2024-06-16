@@ -31,10 +31,14 @@
       <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Accuracy.jpg" alt="Accuracy Model" class="dropdown-image">
       <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Loss.jpg" alt="Loss Model" class="dropdown-image">
     </details>
+    <h4>Predict</h4>
+  | ![Gambar 1](https://github.com/snapmoo/snapmoo/blob/main/assets/Machine%20Learning/sapi%20pmk.png) | ![Gambar 2](https://github.com/snapmoo/snapmoo/blob/main/assets/Machine%20Learning/sapi%20sehat.png) |
+  |----------------------------------------------|----------------------------------------------|
+  |          FMD cattle prediction               |         Prediction of healthy cattle         |
   </p>
 </div>
 <div>
-  <h2>Toll</h2>
+  <h2>Tool</h2>
   <p>
     Google Colab serves as a platform to execute Python programming syntax such as data preprocessing, model building, and model evaluation.
   </p>
