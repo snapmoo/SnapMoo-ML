@@ -34,9 +34,9 @@
   </p>
 </div>
 <div>
-  <h2>Tolls</h2>
+  <h2>Toll</h2>
   <p>
-    - Google Colab serves as a platform to execute Python programming syntax such as data preprocessing, model building, and model evaluation.
+    Google Colab serves as a platform to execute Python programming syntax such as data preprocessing, model building, and model evaluation.
   </p>
 </div>
 <div>
