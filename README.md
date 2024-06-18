@@ -28,8 +28,8 @@
     </details>
     <details>
       <summary>Accuraccy & Loss</summary>
-      <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Accuracy.jpg" alt="Accuracy Model" class="dropdown-image">
-      <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Loss.jpg" alt="Loss Model" class="dropdown-image">
+      <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Accuracy.png" alt="Accuracy Model" class="dropdown-image">
+      <img src="https://raw.github.com/snapmoo/snapmoo/main/assets/Machine%20Learning/Loss.png" alt="Loss Model" class="dropdown-image">
     </details>
     <h4>Predict</h4>
   </p>
